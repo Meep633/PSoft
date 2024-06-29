@@ -1,0 +1,8 @@
+Options:
+	m - View command options and descriptions
+	b - View list of buildings and their IDs. Intersections (nodes with no name) are not considered buildings.
+	r - Find the shortest path between two buildings. This option will prompt you to input two building names/IDs and will output the path.
+	l - Load map with new building and path data. File names are relative to the root folder of this repo (ex: load data/rpi_map_simple_nodes.csv).
+	    The building file must follow the format: "name,id,x-coord,y-coord"
+	    The path file must follow the format: "id1,id2"
+	q - Quit application

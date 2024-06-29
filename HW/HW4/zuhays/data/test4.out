@@ -1,0 +1,18 @@
+Building file name, followed by Enter: Building paths file name, followed by Enter: Successfully loaded.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from 0 to 3:
+	Walk East to (1)
+	Walk East to (Intersection 2)
+	Walk East to (3)
+Total distance: 3.000 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from 0 to 7:
+	Walk South to (4)
+	Walk South to (Intersection 5)
+	Walk East to (6)
+	Walk South to (7)
+Total distance: 4.000 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: There is no path from 0 to 8.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from 1 to 1:
+Total distance: 0.000 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [what]
+Unknown building: []
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [invalid]
